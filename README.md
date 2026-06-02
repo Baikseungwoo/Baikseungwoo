@@ -24,8 +24,6 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### AI / Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -58,27 +56,92 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-</div>
-
 ## 🚀 Featured Projects
 
-| Project | Focus | What I Built |
-| --- | --- | --- |
-| [**Chalkak App**](https://github.com/chalkak-itm/chalkak-app) | Android / AI / Firebase | TensorFlow Lite 객체 인식으로 어린이 영어 단어와 문장 학습을 돕는 모바일 앱 |
-| [**IBM x RedHat Midterm Project**](https://github.com/Baikseungwoo/IBM-x-RedHat-Midterm-Project) | Full Stack / Cloud | 부트캠프 중간 프로젝트로 프론트엔드, 백엔드, 배포 흐름을 통합한 서비스 구현 |
-| [**WP Emotion Diary**](https://github.com/Baikseungwoo/WP_Term-project_Emotionl-Diary) | Web Application | 감정 기록을 주제로 한 웹 프로그래밍 텀 프로젝트 |
-| [**test_frontend**](https://github.com/Baikseungwoo/test_frontend) | Frontend / Deployment | React 프론트엔드와 GitHub Actions, AWS 기반 배포 실습 |
-| [**pintOS**](https://github.com/Baikseungwoo/pintOS) | OS / C | C와 Linux 기반 운영체제 구조 학습 프로젝트 |
-| [**Spring Study**](https://github.com/Baikseungwoo/Spring-study) | Backend / Java | Spring 백엔드 구조와 Java 서버 개발 학습 기록 |
+### 🧒 [Chalkak App](https://github.com/chalkak-itm/chalkak-app)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111111)
+
+> 카메라 기반 객체 인식으로 어린이의 영어 단어와 문장 학습을 돕는 모바일 앱입니다.
+
+- TensorFlow Lite 기반 객체 인식 기능을 앱 학습 흐름에 연결
+- Firebase를 활용한 앱 데이터 관리 구조 경험
+- Android 앱 구조, 화면 흐름, 학습 페이지 중심의 대표 모바일 AI 프로젝트
+
+---
+
+### 🏫 [CampusShare](https://github.com/Baikseungwoo/CampusShare)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+
+> 강의자료와 시험자료 같은 학업 리소스를 공유하고 탐색할 수 있는 캠퍼스 리소스 플랫폼입니다.
+
+- Spring Boot와 React 기반의 학업 자료 공유 서비스 구조 학습
+- 사용자 경험과 확장성을 고려한 웹 애플리케이션 구현 경험
+- 백엔드와 프론트엔드의 역할을 나누어 서비스 흐름을 이해한 프로젝트
+
+---
+
+### ☁️ [IBM x RedHat Midterm Project](https://github.com/Baikseungwoo/IBM-x-RedHat-Midterm-Project)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+> IBM x RedHat 부트캠프 과정에서 진행한 풀스택 중간 프로젝트입니다.
+
+- 프론트엔드, 백엔드, 배포 흐름을 통합해 서비스 형태로 구현
+- Docker와 클라우드 배포 흐름을 포트폴리오 프로젝트로 정리
+- 팀 프로젝트 환경에서 Git 기반 협업과 기능 구현 경험 축적
+
+---
+
+### 📘 [BootCamp IBM x RedHat Study Team 5](https://github.com/Baikseungwoo/BootCamp-IBM-x-RedHat-study-Team-5)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Study](https://img.shields.io/badge/Study%20Record-111827?style=flat-square)
+![Mini Project](https://img.shields.io/badge/Mini%20Project-2563EB?style=flat-square)
+
+> IBM x RedHat 부트캠프 학습 과정과 미니 프로젝트 기록을 정리한 스터디 레포지토리입니다.
+
+- 실습 중심 학습 내용을 기록하며 개념을 프로젝트 단위로 정리
+- 팀 스터디 흐름에서 학습 자료, 구현 기록, 미니 프로젝트 경험 축적
+- 단순 강의 수강이 아니라 꾸준한 실습과 기록을 남긴 활동형 레포지토리
+
+---
+
+### 📝 [WP Emotion Diary](https://github.com/Baikseungwoo/WP_Term-project_Emotionl-Diary)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Web App](https://img.shields.io/badge/Web%20Application-10B981?style=flat-square)
+
+> 감정 기록을 주제로 한 웹 프로그래밍 텀 프로젝트입니다.
+
+- 사용자 입력과 감정 기록 흐름을 중심으로 한 웹 애플리케이션 구현
+- 웹 프로그래밍 수업 프로젝트를 결과물 형태로 정리
+- UI, 데이터 흐름, 기능 구성을 함께 고려한 학습 프로젝트
+
+---
+
+### ⚙️ [pintOS](https://github.com/Baikseungwoo/pintOS)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![OS](https://img.shields.io/badge/Operating%20System-111827?style=flat-square)
+
+> C와 Linux 기반으로 운영체제 구조를 학습한 시스템 프로그래밍 프로젝트입니다.
+
+- 운영체제 내부 구조와 저수준 시스템 구현 흐름 학습
+- C 언어 기반 프로젝트를 통해 메모리, 스레드, 시스템 구조 이해 확장
+- 웹/앱뿐 아니라 시스템 영역까지 학습 범위를 넓힌 프로젝트
 
 ## 🧭 Project Map
 
 ~~~text
-Mobile & AI          Android, Kotlin, TensorFlow Lite, Firebase
-Full Stack Web       React, JavaScript, Spring Boot, FastAPI
-Cloud & Deployment   AWS EC2, Docker, GitHub Actions
-System Programming   C, Linux, PintOS
-Study Records        IBM x RedHat, Spring, Web Programming
+Mobile & AI          Chalkak App, Android, Kotlin, TensorFlow Lite, Firebase
+Full Stack Web       CampusShare, React, Spring Boot, JavaScript
+Cloud & Deployment   IBM x RedHat Project, AWS EC2, Docker, GitHub Actions
+System Programming   pintOS, C, Linux, Operating System
+Study Records        IBM x RedHat Study, Web Programming, Spring learning
 ~~~
 
 ## 📊 GitHub Stats
