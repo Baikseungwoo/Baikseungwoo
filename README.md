@@ -29,9 +29,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-111827?style=for-the-badge)
+![Deep Laerning](https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
+![Vite](https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=vite&logoColor=111111)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -45,6 +47,10 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
+### DataBase
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 ### Cloud / Tools
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,7 +58,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
@@ -87,12 +92,15 @@
 
 ### ☁️ [IBM x RedHat Midterm Project](https://github.com/Baikseungwoo/IBM-x-RedHat-Midterm-Project)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![Vite](https://img.shields.io/badge/Vite-9135FF?style=flat-square&logo=vite&logoColor=111111)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 > IBM x RedHat 부트캠프 과정에서 진행한 풀스택 중간 프로젝트입니다.
 
-- 프론트엔드, 백엔드, 배포 흐름을 통합해 서비스 형태로 구현
+- 프론트엔드, 백엔드, aws EC2 배포 흐름을 통합해 서비스 형태로 구현
 - Docker와 클라우드 배포 흐름을 포트폴리오 프로젝트로 정리
 - 팀 프로젝트 환경에서 Git 기반 협업과 기능 구현 경험 축적
 
@@ -160,15 +168,14 @@ Study Records        IBM x RedHat Study, Web Programming, Spring learning
 ## 🎯 Currently Focusing On
 
 - AI 기능을 실제 사용자 서비스로 연결하는 구조 설계
-- Android AI 앱과 웹 풀스택 프로젝트 고도화
-- Docker와 AWS 기반 배포 안정화
-- 프로젝트 README와 포트폴리오 정리
+- 딥러닝 모델들을 LangChain을 이용해 RAG 구현
+- Docker와 AWS 기반 서비스 분리 / 배포 안정화
 
 ---
 
 <div align="center">
 
-**꾸준히 학습하고, 끝까지 구현하며, 결과물의 완성도를 높이는 개발자가 되겠습니다.**
+**결과물의 완성도를 높이는 개발자가 되겠습니다.**
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:2563EB,100:111827&height=120&section=footer)
 
