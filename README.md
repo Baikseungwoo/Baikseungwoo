@@ -11,7 +11,7 @@
 
 </div>
 
-## 👋 About Me
+# 👋 About Me
 
 > AI 모델을 서비스로 연결하고, 프론트엔드부터 백엔드와 클라우드 배포까지 직접 구현하는 개발자입니다.
 
@@ -22,12 +22,13 @@
 - GitHub Actions와 AWS EC2를 활용한 프론트엔드 배포 및 서버 운영 경험
 - 영어 기반 전공 수업과 협업 환경에 익숙하며 IELTS 6.0 수준의 영어 역량 보유
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### AI / Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-111827?style=for-the-badge)
 ![Deep Laerning](https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge)
 
@@ -62,7 +63,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🧒 [Chalkak App](https://github.com/chalkak-itm/chalkak-app)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -122,6 +123,7 @@
 
 ### 📝 [WP Emotion Diary](https://github.com/Baikseungwoo/WP_Term-project_Emotionl-Diary)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Web App](https://img.shields.io/badge/Web%20Application-10B981?style=flat-square)
 
 > 감정 기록을 주제로 한 웹 프로그래밍 텀 프로젝트입니다.
@@ -143,7 +145,7 @@
 - C 언어 기반 프로젝트를 통해 메모리, 스레드, 시스템 구조 이해 확장
 - 웹/앱뿐 아니라 시스템 영역까지 학습 범위를 넓힌 프로젝트
 
-## 🧭 Project Map
+# 🧭 Project Map
 
 ~~~text
 Mobile & AI          Chalkak App, Android, Kotlin, TensorFlow Lite, Firebase
@@ -153,7 +155,7 @@ System Programming   pintOS, C, Linux, Operating System
 Study Records        IBM x RedHat Study, Web Programming, Spring learning
 ~~~
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -166,7 +168,7 @@ Study Records        IBM x RedHat Study, Web Programming, Spring learning
 
 </div>
 
-## 🎯 Currently Focusing On
+# 🎯 Currently Focusing On
 
 - AI 기능을 실제 사용자 서비스로 연결하는 구조 설계
 - 딥러닝 모델들을 LangChain을 이용해 RAG 구현
