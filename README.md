@@ -19,7 +19,7 @@
 - **Northumbria University** 연계 학위 과정 이수 중
 - AI, 데이터 마이닝, 딥러닝 모델 활용 서비스 구현에 관심
 - React, Spring Boot, FastAPI, Android, Firebase, AWS, Docker 기반 프로젝트 경험
-- GitHub Actions와 AWS 를 활용한 프론트엔드 배포 및 서버 운영 경험
+- GitHub Actions와 AWS 를 활용한 프론트엔드 배포 및 백엔드 서버 배포 경험
 - 영어 기반 전공 수업과 협업 환경에 익숙하며 IELTS 6.0 수준의 영어 역량 보유
 
 # 🛠️ Tech Stack
